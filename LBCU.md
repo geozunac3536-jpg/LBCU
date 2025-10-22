@@ -42,3 +42,4 @@ Salvaguardas: preregistro, KPIs duros, falsación cruzada, repo abierto.
 
 ## Fuente
 Documento “Ley de Balance Coherencial Universal (LBCU)” del corpus TCDS.
+docs: añadir Ley de Balance Coherencial Universal (LBCU)
