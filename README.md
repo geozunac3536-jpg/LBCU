@@ -12,7 +12,7 @@
 
 ## 📘 Descripción general
 
-**LBCU (Ley de Balance Coherencial Universal)** es la **baliza documental y compendio técnico** del paradigma TCDS.  
+**LBCU (Ley de Balance Coherencial Universal)** es el **compendio documental y compendio técnico** del paradigma TCDS.  
 Define el cierre causal entre ecuación, observable, métrica y decisión, unificando coherencia física, biológica y cognitiva bajo un mismo marco.
 
 ---
