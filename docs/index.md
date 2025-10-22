@@ -1,11 +1,7 @@
----
-layout: default
-title: Inicio
-nav_order: 1
-description: "Página principal del repositorio LBCU."
----
+ "Página principal del repositorio LBCU."
+---https://github.com/geozunac3536-jpg/LBCU
 
-# LBCU: [Nombre completo del proyecto]
+# LBCU: [LEY DE BALANCE COHERENCIAL UNIVERSAL]
 {: .fs-9 }
 
 La baliza documental y el compendio técnico del paradigma LBCU.
