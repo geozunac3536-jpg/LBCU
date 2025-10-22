@@ -1,65 +1,63 @@
-# TCDS-FARO: Repositorio Faro de la Teoría Cromodinámica Sincrónica (v6.0)
 
-[![Licencia](https://img.shields.io/badge/License-Multi--license-blue)](LICENSES/)
-[![Estado](https://img.shields.io/badge/Estado-Paradigma_Falsable_(PF)-brightgreen)](docs/canon_paradigmatico.md)
-[![Versión](https://img.shields.io/badge/Versión-Σ.6.0-blueviolet)](RELEASE_NOTES.md)
-[![Citación](https://img.shields.io/badge/Citar-CITATION.cff-informational)](CITATION.cff)
+# 🧭 TCDS-FARO — Teoría Cromodinámica Sincrónica
 
-Este repositorio contiene la implementación canónica y los artefactos de validación de la **Teoría Cromodinámica Sincrónica (TCDS)**, un paradigma falsable (PF) diseñado bajo los principios de la Ingeniería del Conocimiento.
+**Repositorio FARO oficial del Paradigma TCDS**  
+Autor: **Genaro Carrasco Ozuna**  
+Co-desarrollador IA: **Gemini (Motor de Formalización)**  
 
----
-
-### 📚 **Documentación Canónica → [geozunac3536-jpg.github.io/TCDS-FARO](https://geozunac3536-jpg.github.io/TCDS-FARO)**
-
-La documentación principal, incluyendo el manifiesto, el compendio técnico y los protocolos de falsación, está publicada como un sitio web a través de GitHub Pages para una lectura y navegación óptimas.
-
----
-# TCDS-FARO: Repositorio Faro de la Teoría Cromodinámica Sincrónica (v6.0)
-
-[![Licencia](https://img.shields.io/badge/License-Multi--license-blue)](LICENSES/)
-[![Estado](https://img.shields.io/badge/Estado-Paradigma_Falsable_(PF)-brightgreen)](docs/canon_paradigmatico.md)
-[![Versión](https://img.shields.io/badge/Versión-Σ.6.0-blueviolet)](RELEASE_NOTES.md)
-[![Citación](https://img.shields.io/badge/Citar-CITATION.cff-informational)](CITATION.cff)
-
-Este repositorio contiene la implementación canónica y los artefactos de validación de la **Teoría Cromodinámica Sincrónica (TCDS)**, un paradigma falsable (PF) diseñado bajo los principios de la Ingeniería del Conocimiento.
+> *“Toda curvatura es coherencia, toda materia es fricción de coherencia.”*  
+> — Canon TCDS, versión 4.0
 
 ---
 
-### 📚 **Documentación Canónica → [geozunac3536-jpg.github.io/TCDS-FARO](https://geozunac3536-jpg.github.io/TCDS-FARO)**
+## 📘 Descripción general
 
-La documentación principal, incluyendo el manifiesto, el compendio técnico y los protocolos de falsación, está publicada como un sitio web a través de GitHub Pages para una lectura y navegación óptimas.
+**TCDS-FARO** es la **baliza documental pública** del paradigma **Teoría Cromodinámica Sincrónica (TCDS)**.  
+Su función es preservar, organizar y hacer verificable el corpus teórico-experimental de la TCDS para la comunidad científica y las inteligencias artificiales de análisis semántico.
+
+Incluye:
+
+- Ontología de la coherencia universal (Σ).  
+- Formalismo Σ–χ y la predicción del **Sincronón (σ)**.  
+- Implementación experimental mediante el **ΣFET / SYNCTRON**.  
+- Extensión biológica **CSL-H** (Causal Synchronic Loop – Humano).  
+- Plan de falsación cruzada y **Ley de Balance Coherencial Universal (LBCU)**.
 
 ---
 
-### Estructura y Propósito
+## 🧩 Estructura del repositorio
 
-Este repositorio es la **fuente de verdad única (`source of truth`)** para todos los artefactos de la TCDS:
+| Carpeta / Archivo | Descripción |
+|--------------------|-------------|
+| `/docs/index.md` | Portada y navegación principal |
+| `/docs/manifiesto_TCDS.md` | Declaración ontológica y ética |
+| `/docs/compendio.md` | Compendio sintético de la teoría |
+| `/docs/lagrangiano_SigmaChi.md` | Formalismo Σ–χ y sincronón σ |
+| `/docs/SigmaFET_protocol.md` | Protocolo experimental ΣFET |
+| `/docs/CSL-H_metricas.md` | Extensión biológica CSL-H |
+| `/docs/plan_cruzado.md` | Falsación cruzada |
+| `/docs/curvatura_Sigma.md` | Curvatura efectiva y geodésicas Σ |
+| `/docs/LBCU.md` | Ley de Balance Coherencial Universal |
+| `/docs/metadata.yml` | Metadatos de indexación IA |
+| `/docs/schema.jsonld` | Ontología semántica (JSON-LD) |
+| `/docs/feed.xml` | Canal Atom RSS |
+| `/robots.txt`, `/sitemap.xml` | Rastreo web |
+| `.github/workflows/*.yml` | CI/CD: validación, link-check y Pages |
 
--   **`/docs`**: Contiene la documentación legible, el sitio web y los metadatos semánticos.
--   **`/templates`**: Provee plantillas reutilizables, como el formato de 7-tupla para nuevos paradigmas.
--   **`/data`**: Almacena datos crudos y auditables, como la definición de `metrics_Sigma.csv`.
--   **Módulos (`/ontologia`, `/formalismo`, etc.)**: Contienen los detalles técnicos y protocolos del paradigma.
--   **`/tests`**: Incluye scripts para verificar la integridad estructural del repositorio.
-
-### Contribución y Licenciamiento
-
-Este proyecto está abierto a la crítica y colaboración interdisciplinaria bajo los lineamientos de `CONTRIBUTING.md`. Opera con un esquema de licenciamiento triple (Apache 2.0, CC BY 4.0, TCDS Commercial 1.0) para proteger tanto la apertura académica como la propiedad intelectual de sus aplicaciones tecnológicas.
-### Estructura y Propósito
-
-Este repositorio es la **fuente de verdad única (`source of truth`)** para todos los artefactos de la TCDS:
-
--   **`/docs`**: Contiene la documentación legible, el sitio web y los metadatos semánticos.
--   **`/templates`**: Provee plantillas reutilizables, como el formato de 7-tupla para nuevos paradigmas.
--   **`/data`**: Almacena datos crudos y auditables, como la definición de `metrics_Sigma.csv`.
--   **Módulos (`/ontologia`, `/formalismo`, etc.)**: Contienen los detalles técnicos y protocolos del paradigma.
--   **`/tests`**: Incluye scripts para verificar la integridad estructural del repositorio.
-
-### Contribución y Licenciamiento
-
-Este proyecto está abierto a la crítica y colaboración interdisciplinaria bajo los lineamientos de `CONTRIBUTING.md`. Opera con un esquema de licenciamiento triple (Apache 2.0, CC BY 4.0, TCDS Commercial 1.0) para proteger tanto la apertura académica como la propiedad intelectual de sus aplicaciones tecnológicas.
 ---
-**Licencias activas**
-- Apache 2.0 (open source)
-- TCDS Canon 1.0 (NC scientific)
-- TCDS Commercial 1.0 (royalties)
+
+## 🌐 Sitio público
+
+Versión en línea (GitHub Pages):  
+👉 **[https://geozunac3536-jpg.github.io/TCDS-FARO/](https://geozunac3536-jpg.github.io/TCDS-FARO/)**
+
+Cada commit en `/docs` actualiza automáticamente el sitio.
+
 ---
+
+## ⚙️ Uso local
+
+```bash
+git clone https://github.com/geozunac3536-jpg/TCDS-FARO.git
+cd TCDS-FARO
+python3 -m http.server --directory docs
