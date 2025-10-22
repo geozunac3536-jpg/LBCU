@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "LBCU — [Escriba aquí el nombre completo del proyecto]"
+message: "Cita este repositorio si usas la metodología, datos o teoría."
+type: software
+authors:
+  - family-names: "Carrasco Ozuna"
+    given-names: "Genaro"
+repository-code: "https://github.com/geozunac3536-jpg/LBCU"
+license: "Apache-2.0"
+version: "1.0"
+date-released: "2025-10-22"
+keywords: ["[palabra-clave-1]","[palabra-clave-2]","[palabra-clave-3]"]
