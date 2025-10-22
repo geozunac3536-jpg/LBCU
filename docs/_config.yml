@@ -1,0 +1,19 @@
+# Configuración de Jekyll para LBCU con el tema "Just the Docs"
+remote_theme: just-the-docs/just-the-docs
+color_scheme: "light"
+
+# --- Metadatos del Sitio ---
+title: "LBCU: [Nombre completo del proyecto]"
+author: "Genaro Carrasco Ozuna"
+description: "La baliza documental y el compendio técnico del paradigma LBCU."
+baseurl: "/LBCU"
+url: "https://geozunac3536-jpg.github.io"
+
+# --- Configuración de Navegación ---
+aux_links:
+  "LBCU en GitHub":
+    - "https://github.com/geozunac3536-jpg/LBCU"
+footer_content: "Copyright © 2025 Genaro Carrasco Ozuna. Distribuido bajo un esquema de <a href=\"https://github.com/geozunac3536-jpg/LBCU/tree/main/LICENSES\">licenciamiento múltiple</a>."
+
+# --- Búsqueda ---
+search_enabled: true
