@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "TCDS-FARO",
+  "url": "https://geozunac3536-jpg.github.io/TCDS-FARO/",
+  "description": "Baliza documental de la Teoría Cromodinámica Sincrónica",
+  "creator": {
+    "@type": "Person",
+    "name": "Genaro Carrasco Ozuna"
+  },
+  "inLanguage": "es",
+  "hasPart": [
+    {"@type":"CreativeWork","name":"Manifiesto TCDS","url":"/docs/manifiesto_TCDS.md"},
+    {"@type":"CreativeWork","name":"Compendio TCDS","url":"/docs/compendio.md"},
+    {"@type":"CreativeWork","name":"LBCU","url":"/docs/LBCU.md"}
+  ]
+}
