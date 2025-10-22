@@ -10,30 +10,30 @@
 
 ---
 
-## 📘 Descripción general
+##  Descripción general
 
 **LBCU (Ley de Balance Coherencial Universal)** es el **compendio documental y compendio técnico** del paradigma TCDS.  
 Define el cierre causal entre ecuación, observable, métrica y decisión, unificando coherencia física, biológica y cognitiva bajo un mismo marco.
 
 ---
 
-## 🌐 Documentación principal
+##  Documentación principal
 
-📚 **Sitio web oficial:**  
-👉 [https://geozunac3536-jpg.github.io/LBCU](https://geozunac3536-jpg.github.io/LBCU)
+ **Sitio web oficial:**  
+👀👉 [https://geozunac3536-jpg.github.io/LBCU](https://geozunac3536-jpg.github.io/LBCU)
 
 La documentación principal —incluyendo el manifiesto, el compendio técnico y los protocolos de falsación— está publicada en GitHub Pages para navegación directa.
 
 ---
 
-## 🎯 Propósito del repositorio
+##  Propósito del repositorio
 
 Este repositorio actúa como la **fuente de verdad única (`source of truth`)** para todos los artefactos del paradigma **LBCU**.  
 Su meta es garantizar una documentación **auditable, reproducible y verificable** de los fundamentos teóricos, experimentos y resultados del marco de coherencia universal Σ.
 
 ---
 
-## ⚙️ Núcleo formal
+## 🌐 Núcleo formal
 
 \[
 \square \Sigma + \mu^2 \Sigma + \lambda \Sigma^3 = g_m\,T^\mu_{\ \mu} + \partial_\mu(g_J J^\mu_{\mathrm{coh}})
@@ -50,7 +50,7 @@ Su meta es garantizar una documentación **auditable, reproducible y verificable
 
 ---
 
-## 📂 Estructura
+##  Estructura
 
 | Archivo / Carpeta | Descripción |
 |--------------------|-------------|
@@ -65,7 +65,7 @@ Su meta es garantizar una documentación **auditable, reproducible y verificable
 
 ---
 
-## 🧭 Filosofía de autoría y regalías
+##  Filosofía de autoría y regalías
 
 > *La coherencia es gratuita.  
 > La arquitectura que la permite, no.*
@@ -75,7 +75,7 @@ Esta obra se considera original y registrada; el uso comercial o institucional r
 
 ---
 
-## 💰 Donaciones, suscripciones y patrocinio
+##  Donaciones, suscripciones y patrocinio
 
 Si este proyecto le inspira o le resulta útil, puede apoyar su desarrollo:
 
@@ -86,7 +86,7 @@ Si este proyecto le inspira o le resulta útil, puede apoyar su desarrollo:
 
 ---
 
-## 🧠 Autor
+##  Autor
 
 **Genaro Carrasco Ozuna**  
 Correo: `geozunac3536@gmail.com` / `geozunac3536@outlook.com`  
@@ -95,7 +95,7 @@ GitHub: [https://github.com/geozunac3536-jpg](https://github.com/geozunac3536-jp
 
 ---
 
-## 🧩 Integración con TCDS-FARO
+##  Integración con TCDS-FARO
 
 **LBCU** funciona como **módulo de cierre** del marco **TCDS-FARO**, donde se verifican las leyes de coherencia universal a través de:
 - Experimentos ΣFET / SYNCTRON.  
@@ -105,7 +105,7 @@ GitHub: [https://github.com/geozunac3536-jpg](https://github.com/geozunac3536-jp
 
 ---
 
-## 📜 Licencias
+## Licencias
 
 | Tipo | Licencia |
 |------|-----------|
