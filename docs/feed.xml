@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>TCDS-FARO</title>
+  <link href="https://geozunac3536-jpg.github.io/TCDS-FARO/feed.xml" rel="self"/>
+  <updated>2025-10-22T00:00:00Z</updated>
+  <id>https://geozunac3536-jpg.github.io/TCDS-FARO/</id>
+  <entry>
+    <title>LBCU publicada</title>
+    <link href="https://geozunac3536-jpg.github.io/TCDS-FARO/docs/LBCU.html"/>
+    <updated>2025-10-22T00:00:00Z</updated>
+    <id>tag:tcds-faro,2025-10-22:LBCU</id>
+    <summary>Canon operativo de cierre coherencial</summary>
+  </entry>
+</feed>
