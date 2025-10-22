@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-title: "LBCU — [Escriba aquí el nombre completo del proyecto]"
+title: "LBCU — El Canon Paradigmático"
 message: "Cita este repositorio si usas la metodología, datos o teoría."
 type: software
 authors:
@@ -9,4 +9,5 @@ repository-code: "https://github.com/geozunac3536-jpg/LBCU"
 license: "Apache-2.0"
 version: "1.0"
 date-released: "2025-10-22"
-keywords: ["[palabra-clave-1]","[palabra-clave-2]","[palabra-clave-3]"]
+keywords: ["LBCU", "Ingeniería del Conocimiento", "Canon Paradigmático", "IPP", "Falsabilidad", "Metodología Científica", "Paradigma", "Cinética del Conocimiento"]
+
