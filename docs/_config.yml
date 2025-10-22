@@ -17,3 +17,18 @@ footer_content: "Copyright © 2025 Genaro Carrasco Ozuna. Distribuido bajo un es
 
 # --- Búsqueda ---
 search_enabled: true
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "TCDS-FARO",
+  "url": "https://geozunac3536-jpg.github.io/TCDS-FARO/",
+  "keywords": [
+    "TCDS","coherencia universal","campo sigma","sincronón","inyección locking",
+    "lenguas de Arnold","ruido de fase","Σ-metrics","ΣFET","SYNCTRON",
+    "LBCU","fuerzas sub-milimétricas","Yukawa","balanza de torsión",
+    "relojes ópticos","cavidades","geodésicas Σ","curvatura efectiva",
+    "universal coherence","sigma field","synchronon","injection locking",
+    "Arnold tongues","phase noise","sigma metrics","torsion balance",
+    "optical clocks","optical cavities"
+  ]
+}
