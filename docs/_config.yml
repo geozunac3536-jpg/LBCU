@@ -1,17 +1,47 @@
+# ==========================
+# Configuración GitHub Pages / Jekyll
+# ==========================
+
+title: "TCDS-FARO"
+description: "Synchronic Chromodynamics Theory — Σ–χ formalism, Synchronon σ, ΣFET, CSL-H, LBCU."
+theme: jekyll-theme-cayman
+lang: "es-MX"
+
 # --- Búsqueda ---
 search_enabled: true
-{
-  "@context": "https://schema.org",
-  "@type": "WebSite",
-  "name": "TCDS-FARO",
-  "url": "https://geozunac3536-jpg.github.io/TCDS-FARO/",
-  "keywords": [
-    "TCDS","coherencia universal","campo sigma","sincronón","inyección locking",
-    "lenguas de Arnold","ruido de fase","Σ-metrics","ΣFET","SYNCTRON",
-    "LBCU","fuerzas sub-milimétricas","Yukawa","balanza de torsión",
-    "relojes ópticos","cavidades","geodésicas Σ","curvatura efectiva",
-    "universal coherence","sigma field","synchronon","injection locking",
-    "Arnold tongues","phase noise","sigma metrics","torsion balance",
-    "optical clocks","optical cavities"
-  ]
-}
+
+# --- Metadatos básicos ---
+author: "Genaro Carrasco Ozuna"
+email: "genarocarrascoozuna@proton.me"
+baseurl: ""                # Dejar vacío para GitHub Pages
+url: "https://geozunac3536-jpg.github.io/TCDS-FARO"
+
+# --- Navegación automática ---
+include:
+  - index.md
+  - manifest.json
+  - sitemap.xml
+  - robots.txt
+  - feed.xml
+  - schema.jsonld
+  - metadata.yml
+  - LBCU.md
+
+# --- Markdown y extras ---
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-include-cache
+
+# --- SEO avanzado ---
+seo:
+  type: "CreativeWork"
+  name: "TCDS-FARO"
+  locale: "es_MX"
+  links:
+    - "https://geozunac3536-jpg.github.io/TCDS-FARO/"
