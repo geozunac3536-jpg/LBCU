@@ -1,4 +1,4 @@
-# LBCU: [LEY DD BALANCE COHERENCIALUNIVERSAL]
+# LBCU: [LEY DE BALANCE COHERENCIALUNIVERSAL]
 
 [![Licencia](https://img.shields.io/badge/License-Multi--license-blue)](LICENSES/)
 [![Estado](https://img.shields.io/badge/Estado-Paradigma_en_Construcción-orange)](docs/canon_paradigmatico.md)
