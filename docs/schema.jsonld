@@ -1,16 +1,18 @@
 {
   "@context": "https://schema.org",
   "@type": "WebSite",
-  "name": "TCDS-FARO",
-  "url": "https://geozunac3536-jpg.github.io/TCDS-FARO/",
+  "name": "LBCU — Ley de Balance Coherencial Universal",
+  "url": "https://geozunac3536-jpg.github.io/LBCU/",
   "inLanguage": ["es-MX", "en-US"],
+  "creator": {
+    "@type": "Person",
+    "name": "Genaro Carrasco Ozuna",
+    "url": "https://github.com/geozunac3536-jpg"
+  },
   "keywords": [
-    "TCDS","coherencia universal","campo sigma","sincronón","inyección locking",
-    "lenguas de Arnold","ruido de fase","Σ-metrics","ΣFET","SYNCTRON",
-    "LBCU","fuerzas sub-milimétricas","Yukawa","balanza de torsión",
-    "relojes ópticos","cavidades","geodésicas Σ","curvatura efectiva",
-    "universal coherence","sigma field","synchronon","injection locking",
-    "Arnold tongues","phase noise","sigma metrics","torsion balance",
-    "optical clocks","optical cavities"
+    "LBCU","TCDS","coherencia universal","campo sigma","sincronón","inyección locking",
+    "Σ-metrics","ΣFET","SYNCTRON","falsación científica","ciencia abierta","Sigma field",
+    "universal coherence","coherence law","balance","falsification","Arnold tongues",
+    "phase noise","torsion balance","optical clocks","atomic coherence"
   ]
 }
