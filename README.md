@@ -68,6 +68,14 @@ GitHub: [@geozunac3536-jpg](https://github.com/geozunac3536-jpg)
 - Autor: *Genaro Carrasco Ozuna*  
 - Versión: *1.0 (Octubre 2025)*  
 - Estado: *Paradigma en desarrollo y validación*
+- ## Vinculación con LBCU-
+
+Este repositorio se vincula explícitamente con la Ley de Balance Coherencial Universal (LBCU-), disponible en [https://geozunac3536-jpg.github.io/LBCU/](https://geozunac3536-jpg.github.io/LBCU/).  
+LBCU- establece el marco ontológico y operativo que rige la coherencia entre teoría, hardware, documentación y defensa legal.  
+Su integración con TCDS-FARO permite consolidar un corpus modular, reproducible y jurídicamente protegido.
+
+**Autor:** Genaro Ozuna  
+**ORCID:** [https://orcid.org/0009-0005-6358-9910](https://orcid.org/0009-0005-6358-9910)
 
 ---
 
