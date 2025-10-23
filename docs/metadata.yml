@@ -1,0 +1,37 @@
+title: "LBCU — Ley de Balance Coherencial Universal"
+description: "Paradigma falsable de coherencia universal derivado del marco TCDS."
+version: "1.0"
+license: "CC BY-4.0 / Apache-2.0 / TCDS Commercial 1.0"
+author:
+  - name: "Genaro Carrasco Ozuna"
+    role: "Arquitecto Causal y Autor del Paradigma LBCU"
+    contact: "geozunac3536@gmail.com"
+repository:
+  type: "git"
+  url: "https://github.com/geozunac3536-jpg/LBCU.git"
+docs_url: "https://geozunac3536-jpg.github.io/LBCU/"
+
+topics:
+  - lbcu
+  - tcds
+  - coherencia-universal
+  - sigma-field
+  - sincronon
+  - falsacion
+  - ciencia-abierta
+  - gobernanza-de-la-coherencia
+  - sigmafet
+  - coherencimetro
+  - sub-mm
+  - yukawa
+  - atomic-clocks
+  - optical-cavities
+  - json-ld
+  - github-pages
+last_review: "2025-10-22"
+reviewer: "Gemini IA"
+integrity:
+  checksum_method: "SHA256"
+notes:
+  - "Repositorio oficial del paradigma LBCU derivado de TCDS-FARO."
+  - "Estructura auditable y falsable."
