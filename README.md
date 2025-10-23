@@ -33,7 +33,20 @@ El repositorio LBCU actúa como la **fuente de verdad única (source of truth)**
 - [Mapa del sitio (sitemap.xml)](/sitemap.xml)  
 - [Archivo robots.txt](/robots.txt)
 
+
 ---
+
+## 💰 Donaciones, suscripciones y patrocinio
+
+Si este proyecto le inspira o le resulta útil, puede apoyar su desarrollo:
+
+- **Cuenta:** `722969020355544694`  
+- **Titular:** Genaro Carrasco Ozuna  
+- **Institución:** Mercado Pago W  
+- **Ubicación bancaria:** Orizaba, Veracruz, México
+
+---
+
 
 ## 🧠 Autor
 **Genaro Carrasco Ozuna**  
