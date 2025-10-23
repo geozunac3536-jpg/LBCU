@@ -12,20 +12,26 @@ repository:
 docs_url: "https://geozunac3536-jpg.github.io/LBCU/"
 
 topics:
-  - lbcu
   - tcds
+  - lbcu
   - coherencia-universal
-  - sigma-field
+  - campo-sigma
   - sincronon
+  - sigma-field
+  - universal-coherence
   - falsacion
   - ciencia-abierta
-  - gobernanza-de-la-coherencia
-  - sigmafet
+  - open-science
   - coherencimetro
+  - sigmafet
   - sub-mm
-  - yukawa
+  - relojes-opticos
   - atomic-clocks
-  - optical-cavities
+  - phase-noise
+  - torsion-balance
+  - curvatura-sigma
+  - sigma-curvature
+  - gobernanza-de-la-coherencia
   - json-ld
   - github-pages
 last_review: "2025-10-22"
