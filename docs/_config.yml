@@ -1,7 +1,10 @@
-title: "TCDS-FARO"
-description: "Synchronic Chromodynamics Theory — Σ–χ formalism, Synchronon σ, ΣFET, CSL-H, LBCU."
-author:
-  name: "Genaro Carrasco Ozuna"
-  url: "https://geozunac3536-jpg.github.io/TCDS-FARO/"
-  email: "genarocarrascoozuna@proton.me"
-  affiliation: "Proyecto TCDS — Canon Paradigmático"
+title: "LBCU — Ley de Balance Coherencial Universal"
+description: "Paradigm of coherent balance derived from TCDS — universal falsifiable framework."
+author: "Genaro Carrasco Ozuna"
+url: "https://geozunac3536-jpg.github.io/LBCU"
+theme: jekyll-theme-cayman
+lang: "es-MX"
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
