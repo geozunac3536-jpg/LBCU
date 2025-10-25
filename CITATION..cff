@@ -14,3 +14,18 @@ related_resources:
   - type: website
     title: "Ley de Balance Coherencial Universal (LBCU-)"
     url: "https://geozunac3536-jpg.github.io/LBCU/"
+cff-version: 1.2.0
+message: "Si usas este repositorio, por favor cita:"
+title: "Corpus TCDS — Teoría Cromodinámica Sincrónica"
+authors:
+  - family-names: Carrasco Ozuna
+    given-names: Genaro
+    email: geozunac3536@gmail.com
+    affiliation: Orizaba, Veracruz, México
+date-released: 2025-10-25
+keywords:
+  - TCDS
+  - TMRCU
+  - ΣFET
+  - CSL-H
+  - sincronón
