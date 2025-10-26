@@ -1,4 +1,11 @@
----
+---## Citación
+Para citar este repositorio en trabajos académicos:
+
+> Carrasco Ozuna, G. (2025). *Ley de Balance y Coherencia Universal (LBCU)*. GitHub. https://github.com/geozunac3536-jpg/LBCU-
+
+ORCID: [https://orcid.org/0009-0005-6358-9910](https://orcid.org/0009-0005-6358-9910)
+
+Zenodo: (enlace al DOI cuando lo publiques)
 title: "LBCU — Ley de Balance Coherencial Universal"
 description: "Paradigma falsable de coherencia universal derivado del marco TCDS."
 author: "Genaro Carrasco Ozuna"
