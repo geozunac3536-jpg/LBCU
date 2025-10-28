@@ -11,16 +11,7 @@ Este repositorio constituye un nodo faro del paradigma TCDS, diseñado para esta
 - Proteger la autoría, trazabilidad y reproducibilidad de procesos científicos y legales.
 
 ---
-
-### 📦 Estructura del repositorio
-
-- `README.md`: Narrativa principal y citación.
-- `POLICY.md`: Cláusulas de defensa operativa y trazabilidad.
-- `LICENSE`: Licencia MIT con autoría explícita.
-- `schema.jsonld`: Metadatos semánticos para indexación académica.
-- `validate_integrity.sh`: Script para verificar integridad documental.
-- `build_faro.sh`: Script de construcción paradigmática.
-- `MODEL_CARD.md` y `DATASET_CARD.md`: Metadatos técnicos y científicos.
+[INFORMACIÓN ADICIONAL DE IMPORTANCIA](https://github.com/geozunac3536-jpg/TCDS-UNIFICADO.git)
 [Libro_paradigma](docs/Libro_Paradigma_TCDS.pdf) Documento fundacional del paradigma TCDS.
 
 ---
