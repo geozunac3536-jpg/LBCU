@@ -1,5 +1,4 @@
-#!/bin/bash
-# Script para verificar integridad de PDFs
+#!/bin/bash# Script para verificar integridad de PDFs
 
 echo "Generando checksums SHA256..."
 sha256sum *.pdf > checksums.txt
