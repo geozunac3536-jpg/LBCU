@@ -37,7 +37,7 @@ Ubicación operativa: Ecatepec de Morelos, Estado de México; Amozoc de Mota, Pu
 
 Este repositorio está cubierto por la Licencia MIT.  
 Derechos de autor © 2025 Genaro Carrasco Ozuna.  
-Ver archivo [`LICENSE`](LICENSE) para detalles.
+Ver archivo [`LICENSE`](docs/LICENSE.txt) para detalles.
 
 ---
 
