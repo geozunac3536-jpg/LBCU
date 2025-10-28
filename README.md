@@ -6,13 +6,13 @@ Este repositorio constituye un nodo faro del paradigma TCDS, diseñado para esta
 
 ## 📘 Propósito
 
-- Consolidar [la Ley de Balance y Coherencia Universal](docs/Ley_de_Balance_Coherencial_Universl.pdf)como marco operativo y científico.
+- Consolidar # [la Ley de Balance y Coherencia Universal](docs/Ley_de_Balance_Coherencial_Universl.pdf) como marco operativo y científico.
 - Servir como referencia para nodos fractales e isomórficos en documentación modular.
 - Proteger la autoría, trazabilidad y reproducibilidad de procesos científicos y legales.
 
 ---
 
-## 📦 Estructura del repositorio
+### 📦 Estructura del repositorio
 
 - `README.md`: Narrativa principal y citación.
 - `POLICY.md`: Cláusulas de defensa operativa y trazabilidad.
