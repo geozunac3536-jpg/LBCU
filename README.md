@@ -21,7 +21,7 @@ Este repositorio constituye un nodo faro del paradigma TCDS, diseñado para esta
 - `validate_integrity.sh`: Script para verificar integridad documental.
 - `build_faro.sh`: Script de construcción paradigmática.
 - `MODEL_CARD.md` y `DATASET_CARD.md`: Metadatos técnicos y científicos.
-- `Libro_paradigma.md`: Documento fundacional del paradigma TCDS.
+- [Libro_paradigma](Libro_Paradigma_TCDS.pdf)`: Documento fundacional del paradigma TCDS.
 
 ---
 
