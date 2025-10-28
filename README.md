@@ -45,5 +45,4 @@ Ver archivo [`LICENSE`](LICENSE) para detalles.
 
 Este nodo incluye scripts para validar la integridad de los documentos PDF y proteger la narrativa científica ante malversaciones.
 
-```bash
-bash validate_integrity.sh
+```bash validate_integrity.sh
