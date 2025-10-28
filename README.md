@@ -11,10 +11,11 @@ Este repositorio constituye un nodo faro del paradigma TCDS, diseñado para esta
 - Proteger la autoría, trazabilidad y reproducibilidad de procesos científicos y legales.
 
 ---
-[INFORMACIÓN ADICIONAL](https://geozunac3536-jpg.github.io/TCDS-UNIFICADO/)
+#|[INFORMACIÓN ADICIONAL](https://geozunac3536-jpg.github.io/TCDS-UNIFICADO/)|
 
-[Libro_paradigma](docs/Libro_Paradigma_TCDS.pdf) Documento fundacional del paradigma TCDS.
+#|[Libro_paradigma](docs/Libro_Paradigma_TCDS.pdf)
 
+#|[Proyecto actual](https://zenodo.org/records/17463490)|
 ---
 
 ## 🧠 Autor
