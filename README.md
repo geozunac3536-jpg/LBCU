@@ -12,6 +12,7 @@ Este repositorio constituye un nodo faro del paradigma TCDS, diseñado para esta
 
 ---
 [INFORMACIÓN ADICIONAL](https://geozunac3536-jpg.github.io/TCDS-UNIFICADO/)
+
 [Libro_paradigma](docs/Libro_Paradigma_TCDS.pdf) Documento fundacional del paradigma TCDS.
 
 ---
