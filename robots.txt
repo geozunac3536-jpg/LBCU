@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://geozunac3536-jpg.github.io/LBCU/sitemap.xml
