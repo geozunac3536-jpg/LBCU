@@ -1,0 +1,61 @@
+title: "LBCU — Ley de Balance Coherencial Universal"
+description: "Paradigma falsable de coherencia universal derivado del marco TCDS."
+version: "1.0"
+license: "CC BY-4.0 / Apache-2.0 / TCDS Commercial 1.0"
+author:
+  - name: "Genaro Carrasco Ozuna"
+    role: "Arquitecto Causal y Autor del Paradigma LBCU"
+    contact: "geozunac3536@gmail.com"
+repository:
+  type: "git"
+  url: "https://github.com/geozunac3536-jpg/LBCU.git"
+docs_url: "https://geozunac3536-jpg.github.io/LBCU/"
+
+topics:
+  - tcds
+  - lbcu
+  - coherencia-universal
+  - campo-sigma
+  - sincronon
+  - sigma-field
+  - universal-coherence
+  - falsacion
+  - ciencia-abierta
+  - open-science
+  - coherencimetro
+  - sigmafet
+  - sub-mm
+  - relojes-opticos
+  - atomic-clocks
+  - phase-noise
+  - torsion-balance
+  - curvatura-sigma
+  - sigma-curvature
+  - gobernanza-de-la-coherencia
+  - json-ld
+  - github-pages
+last_review: "2025-10-22"
+reviewer: "Gemini IA"
+integrity:
+  checksum_method: "SHA256"
+notes:
+  - "Repositorio oficial del paradigma LBCU derivado de TCDS-FARO."
+  - "Estructura auditable y falsable."
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "Teoría Cromodinámica Sincrónica (TCDS)",
+  "alternateName": ["TMRCU", "MSL", "MCSLU"],
+  "description": "Paradigma de coherencia universal basado en el campo Σ y el sector Σ–χ, con predicción del sincronón (σ) y validación mediante ΣFET/SYNCTRON y CSL-H.",
+  "creator": { "@id": "mailto:geozunac3536@gmail.com" },
+  "keywords": "coherencia, Σ–χ, sincronón, ΣFET, CSL-H, Spin-Σ, R ∝ ∇²Σ, IPS",
+  "about": [
+    "Física teórica",
+    "Astrofísica",
+    "Biología de sistemas",
+    "Ingeniería de coherencia",
+    "Filosofía de la causalidad"
+  ],
+  "inLanguage": "es",
+  "license": "https://creativecommons.org/licenses/by/4.0/"
+}
