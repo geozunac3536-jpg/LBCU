@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1086888537.svg)](https://doi.org/10.5281/zenodo.17494316)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17498171.svg)](https://doi.org/10.5281/zenodo.17498171)
 # LBCU — Ley de Balance Coherencial Universal
 
 Este repositorio constituye un nodo faro del paradigma TCDS, diseñado para estabilizar narrativas científicas, legales y operativas mediante documentación modular, reproducible y trazable. [La LBCU](docs/Ley_de_Balance_Coherencial_Universl.pdf) establece principios de coherencia entre sistemas, métricas, licencias y procesos auditables.
