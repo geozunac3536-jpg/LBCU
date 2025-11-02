@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/1086888537.svg)](https://doi.org/10.5281/zenodo.17494316)
+https://geozunac3536-jpg.github.io/TCDS-SISTEMA-PREDICTIVO/[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17463045.svg)](https://doi.org/10.5281/zenodo.17463045)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17450752.svg)](https://doi.org/10.5281/zenodo.17450752)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17504507.svg)](https://doi.org/10.5281/zenodo.17504507)[![DOI](https://zenodo.org/badge/1086888537.svg)](https://doi.org/10.5281/zenodo.17494316)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17498171.svg)](https://doi.org/10.5281/zenodo.17498171)
 # LBCU — Ley de Balance Coherencial Universal
 
