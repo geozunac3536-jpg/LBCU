@@ -9,6 +9,7 @@ https://geozunac3536-jpg.github.io/TCDS-SISTEMA-PREDICTIVO/
 Este repositorio constituye un nodo faro del paradigma TCDS, diseñado para estabilizar narrativas científicas, legales y operativas mediante documentación modular, reproducible y trazable. [La LBCU](docs/Ley_de_Balance_Coherencial_Universl.pdf) establece principios de coherencia entre sistemas, métricas, licencias y procesos auditables.
 
 ---
+Nodo central: https://geozunac3536-jpg.github.io/TCDS-Convergencia/
 
 ## 📘 Propósito
 
